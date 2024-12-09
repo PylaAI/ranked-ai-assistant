@@ -1,0 +1,64 @@
+[
+        {"Gem Grab": {
+            "iconUrl": "https://cdn.brawlify.com/game-modes/regular/48000000.png",
+            "maps": [
+                {
+                  "imgUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                  "name": "Hard Rock Mine"
+                },
+              {
+                "imgUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                "name": "Gem Fort"
+              },
+              {
+                "imgUrl": "https://cdn.brawlify.com/maps/regular/15000147.png",
+                "name": "Acute Angel"
+              },
+              {
+                "imgUrl": "https://cdn.brawlify.com/maps/regular/15000764.png",
+                "name": "Sneaky sneak"
+              },
+                {
+                "imgUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                "name": "Pinnaple pizza"
+              },
+              {
+                "imgUrl": "https://cdn.brawlify.com/maps/regular/15000147.png",
+                "name": "Last stop"
+              },
+              {
+                "imgUrl": "https://cdn.brawlify.com/maps/regular/15000764.png",
+                "name": "Sneaky pizza"
+              }
+            ]
+        }},
+  {"Brawl Ball":  {
+    "iconUrl": "https://cdn.brawlify.com/game-modes/regular/48000005.png",
+    "maps": [
+      {
+        "imgUrl": "https://cdn.brawlify.com/maps/regular/15000024.png",
+        "name": "Backyard bowl"
+      },
+      {
+        "imgUrl": "https://cdn.brawlify.com/maps/regular/15000845.png",
+        "name": "Weak foot"
+      },
+      {
+        "imgUrl": "https://cdn.brawlify.com/maps/regular/15000238.png",
+        "name": "Pizza kick"
+      },
+      {
+        "imgUrl": "https://cdn.brawlify.com/maps/regular/15000024.png",
+        "name": "Kakan Apple"
+      },
+      {
+        "imgUrl": "https://cdn.brawlify.com/maps/regular/15000845.png",
+        "name": "Weak arm"
+      },
+      {
+        "imgUrl": "https://cdn.brawlify.com/maps/regular/15000238.png",
+        "name": "Penalty kick"
+      }
+    ]
+  }}
+]

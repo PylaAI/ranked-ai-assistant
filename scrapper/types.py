@@ -1,4 +1,4 @@
-from typing import List, Dict
+from typing import List, Dict, Union
 
 
 class BrawlerColData:
@@ -40,3 +40,12 @@ class PrintColors:
     Green = '32'
     Yellow = '33'
     Blue = '34'
+
+
+class ConfResult:
+    def __init__(self, data: BrawlerColData, conf: Union[float, int], brawler_name: str):
+        self.data = data
+        self.conf = conf
+        self.brawler_name = brawler_name
+
+
