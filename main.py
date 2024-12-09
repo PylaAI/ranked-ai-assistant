@@ -4,7 +4,7 @@ from scrapper.Validator import main as validator_main
 from scrapper.utils import colorful_print
 from scrapper.types import PrintColors
 
-api_key = "empty"
+api_key = "333"
 client = OpenAI(api_key=api_key)
 
 brawlers_data = validator_main()
